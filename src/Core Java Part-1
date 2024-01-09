@@ -1,0 +1,21 @@
+1. Strings and it's use
+
+String: it is a predefined class in java.lang package.
+
+String is a collection of or sequence of characters.
+
+=> How to create string objects:
+
+	- Literal way of String object creation
+		String firstName = "Shravani";
+		
+	- By using new keyword to create a string object.
+		String lastName = new String("Reddy");
+
+2. Inner Classes:
+
+		class within another class declaration is call nested/inner class
+
+3. Exception Handling:
+
+
